@@ -1,4 +1,4 @@
-![](/CVEs/images/arts/scada-lts.png)
+[![](/CVEs/images/arts/scada-lts.png)](https://github.com/KarinaGante/KG-Sec)
 
 <br>
 
@@ -17,7 +17,7 @@
 
  <table>
   <tr>
-    <td><img width="120" src="https://lh5.googleusercontent.com/proxy/Zx2VSwejASMnMUj_VbEv6_vi2DuJIdLYTF9t2uQGdnCcKu2u1FPd7OpMqzI6gBLzlaLOymrjgRJI"/></td>
+    <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="120" src="https://lh5.googleusercontent.com/proxy/Zx2VSwejASMnMUj_VbEv6_vi2DuJIdLYTF9t2uQGdnCcKu2u1FPd7OpMqzI6gBLzlaLOymrjgRJI"/></a></td>
     <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank">https://github.com/SCADA-LTS/Scada-LTS</a></td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
 [![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:karina.gante1@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/karinovisk02/)
 
-<img src="https://img.shields.io/badge/KG_Sec_%E2%99%A1-fe196b" />
+ <a href="https://github.com/KarinaGante/KG-Sec" target="_blank"><img src="https://img.shields.io/badge/KG_Sec_%E2%99%A1-fe196b" /></a>
 
 ##
 
