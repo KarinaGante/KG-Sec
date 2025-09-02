@@ -86,7 +86,7 @@
 
   ##
   
-  *Made with💜 by [Karina](https://github.com/KarinaGante).* 
+  *Made with💜 by [Karina Gante](https://github.com/KarinaGante).* 
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/karina-gante/)
