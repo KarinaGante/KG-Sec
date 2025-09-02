@@ -30,7 +30,7 @@
 
  <table>
   <tr>
-    <td><a href="https://github.com/portabilis/i-educar" target="_blank"><img src="../images/logos/i-educar.png"/></a></td>
+    <td><a href="https://github.com/portabilis/i-educar" target="_blank"><img src="https://ieducar.org/img/logo_horizontal.svg"/></a></td>
     <td><a href="https://github.com/portabilis/i-educar" target="_blank">https://github.com/portabilis/i-educar</a></td>
   </tr>
 </table>
