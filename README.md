@@ -14,16 +14,16 @@
 ##
 
 <div align="center">
-  <img src="kgseclogo.png" width="20%">
+  <a href="https://github.com/KarinaGante/KG-Sec" target="_blank"><img src="kgseclogo.png" width="20%"></a>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/KG_Sec_%E2%99%A1-5A627C" />
+  <a href="https://github.com/KarinaGante/KG-Sec" target="_blank"><img src="https://img.shields.io/badge/KG_Sec_%E2%99%A1-5A627C" /></a>
 </div>
 
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&&color=DB034B&center=true&vCenter=true&width=500&lines=You're+welcome+%5E%5E" alt="Typing SVG"/>
+  <a href="https://github.com/KarinaGante/KG-Sec" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&&color=DB034B&center=true&vCenter=true&width=500&lines=You're+welcome+%5E%5E" alt="Typing SVG"/></a>
 </div>
 
 ##
@@ -38,11 +38,11 @@
     <td>Details on vulnerabilities discovered and reported in bounty programs.</td>
   </tr>
   <tr>
-    <td>🚩 CTFs</td>
+    <td>🚩 <a href="https://github.com/KarinaGante/KG-Sec/tree/main/CTFs" target="_blank">CTFs</a></td>
     <td>Challenges and solutions for security rooms and competitions.</td>
   </tr>
   <tr>
-    <td>🏹 CVE Hunting</td>
+    <td>🏹 <a href="https://github.com/KarinaGante/KG-Sec/tree/main/CVEs" target="_blank">CVE Hunting</a></td>
     <td>Analysis and exploits of vulnerabilities registered in Common Vulnerabilities and Exposures.</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@
 
   ##
   
-  *Made with💜 by Karina.* 
+  *Made with💜 by [Karina](https://github.com/KarinaGante).* 
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/karina-gante/)
