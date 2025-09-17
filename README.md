@@ -55,7 +55,7 @@
 
 ##
 
-<h3>25x Discovered CVEs:</h3>
+<h3>26x Discovered CVEs:</h3>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8538" target="_blank">CVE-2025-8538</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8539" target="_blank">CVE-2025-8539</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8540" target="_blank">CVE-2025-8540</a>,
@@ -81,6 +81,7 @@
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-9738" target="_blank">CVE-2025-9738</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-10372" target="_blank">CVE-2025-10372</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-10373" target="_blank">CVE-2025-10373</a>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-10584" target="_blank">CVE-2025-10584</a>
 
 ##
 
