@@ -67,6 +67,10 @@
 </table>
 <br>
 
+***You can find all [Scada-LTS](https://github.com/SCADA-LTS/Scada-LTS) reports and PoCs with this link:***
+
+[https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/Scada-LTS](https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/Scada-LTS)
+
 ---
 
 <a href="https://github.com/novosga/novosga" target="_blank"><img width="200" src="https://cdn.rawgit.com/novosga/art/d50d3d42/dist/logo_270x107.png"/></a>
