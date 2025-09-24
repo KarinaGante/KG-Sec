@@ -37,7 +37,6 @@
 
  <table>
   <tr>
-    <td><a href="https://github.com/portabilis/i-educar" target="_blank"><img src="https://ieducar.org/img/logo_horizontal.svg"/></a></td>
     <td><a href="https://github.com/portabilis/i-educar" target="_blank">https://github.com/portabilis/i-educar</a></td>
   </tr>
 </table>
@@ -63,15 +62,31 @@
 
  <table>
   <tr>
-    <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="120" src="https://lh5.googleusercontent.com/proxy/Zx2VSwejASMnMUj_VbEv6_vi2DuJIdLYTF9t2uQGdnCcKu2u1FPd7OpMqzI6gBLzlaLOymrjgRJI"/></a></td>
     <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank">https://github.com/SCADA-LTS/Scada-LTS</a></td>
   </tr>
 </table>
 <br>
 
-***You can find all [Scada-LTS](https://github.com/SCADA-LTS/Scada-LTS) reports and PoCs with this link:***
+---
 
-[https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/Scada-LTS](https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/Scada-LTS)
+<a href="https://github.com/novosga/novosga" target="_blank"><img width="200" src="https://cdn.rawgit.com/novosga/art/d50d3d42/dist/logo_270x107.png"/></a>
+
+  <h3>1x Discovered CVE:</h3>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-10909" target="_blank">CVE-2025-10909</a>
+  <br><br><br>
+
+**Access NovoSGA official repository:**
+
+ <table>
+  <tr>
+    <td><a href="https://github.com/novosga/novosga" target="_blank">https://github.com/novosga/novosga</a></td>
+  </tr>
+</table>
+<br>
+
+***You can find all [NovoSGA](https://github.com/novosga/novosga) reports and PoCs with this link:***
+
+[https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/NovoSGA](https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/NovoSGA)
 
   ##
   
