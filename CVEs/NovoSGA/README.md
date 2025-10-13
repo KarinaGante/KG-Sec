@@ -1,4 +1,4 @@
-[![](/CVEs/images/arts/novoSGA.png)](https://github.com/KarinaGante/KG-Sec)
+[![](/CVEs/images/arts/NovoSGA.png)](https://github.com/KarinaGante/KG-Sec)
 
 <br>
 

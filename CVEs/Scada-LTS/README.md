@@ -1,4 +1,4 @@
-[![](/CVEs/images/arts/scada-lts.png)](https://github.com/KarinaGante/KG-Sec)
+[![](/CVEs/images/arts/Scada-lts.png)](https://github.com/KarinaGante/KG-Sec)
 
 <br>
 

@@ -1,4 +1,4 @@
-[![](/CVEs/images/arts/i-educar.png)](https://github.com/KarinaGante/KG-Sec)
+[![](/CVEs/images/arts/i-Educar.png)](https://github.com/KarinaGante/KG-Sec)
 
 <br>
 
