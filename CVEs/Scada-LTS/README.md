@@ -17,7 +17,7 @@
 
  <table>
   <tr>
-    <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="120" src="https://lh5.googleusercontent.com/proxy/Zx2VSwejASMnMUj_VbEv6_vi2DuJIdLYTF9t2uQGdnCcKu2u1FPd7OpMqzI6gBLzlaLOymrjgRJI"/></a></td>
+    <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="120" src="https://abilit.eu/wp-content/uploads/2026/04/Scada-LTS.png"/></a></td>
     <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank">https://github.com/SCADA-LTS/Scada-LTS</a></td>
   </tr>
 </table>
