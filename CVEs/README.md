@@ -48,7 +48,7 @@
 
 ---
 
-<a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="200" src="https://lh5.googleusercontent.com/proxy/Zx2VSwejASMnMUj_VbEv6_vi2DuJIdLYTF9t2uQGdnCcKu2u1FPd7OpMqzI6gBLzlaLOymrjgRJI"/></a>
+<a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="200" src="https://abilit.eu/wp-content/uploads/2026/04/Scada-LTS.png"/></a>
 
   <h3>5x Discovered CVES:</h3>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-9137" target="_blank">CVE-2025-9137</a>,
