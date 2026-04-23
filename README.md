@@ -92,7 +92,7 @@
    <table>
   <tr>
     <td><a href="https://github.com/portabilis/i-educar" target="_blank"><img width="130" src="https://ieducar.org/img/logo_horizontal.svg"/></a></td>
-    <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="150" src="https://lh5.googleusercontent.com/proxy/Zx2VSwejASMnMUj_VbEv6_vi2DuJIdLYTF9t2uQGdnCcKu2u1FPd7OpMqzI6gBLzlaLOymrjgRJI"/></a></td>
+    <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="150" src="https://abilit.eu/wp-content/uploads/2026/04/Scada-LTS.png"/></a></td>
     <td><a href="https://github.com/novosga/novosga" target="_blank"><img width="150" src="https://cdn.rawgit.com/novosga/art/d50d3d42/dist/logo_270x107.png"/></a></td>
   </tr>
   <tr>
