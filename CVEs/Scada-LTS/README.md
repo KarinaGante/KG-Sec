@@ -1,7 +1,3 @@
-[![](/CVEs/images/arts/Scada-lts.png)](https://github.com/KarinaGante/KG-Sec)
-
-<br>
-
 <div align="center">
   <h3>5x Discovered CVES:</h3>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-9137" target="_blank">CVE-2025-9137</a>,
