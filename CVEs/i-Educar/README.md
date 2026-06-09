@@ -1,7 +1,3 @@
-[![](/CVEs/images/arts/i-Educar.png)](https://github.com/KarinaGante/KG-Sec)
-
-<br>
-
 <div align="center">
 <h3>24x Discovered CVES:</h3>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8538" target="_blank">CVE-2025-8538</a>,
