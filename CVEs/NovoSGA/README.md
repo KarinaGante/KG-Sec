@@ -1,7 +1,3 @@
-[![](/CVEs/images/arts/NovoSGA.png)](https://github.com/KarinaGante/KG-Sec)
-
-<br>
-
 <div align="center">
   <h3>1x Discovered CVE:</h3>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-9137" target="_blank">CVE-2025-10909</a>
