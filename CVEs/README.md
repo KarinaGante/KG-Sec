@@ -92,6 +92,27 @@
 
 [https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/NovoSGA](https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/NovoSGA)
 
+---
+
+<a href="https://github.com/fluentcms/FluentCMS" target="_blank"><img width="200" src="https://fluentcms.com/logo.svg"/></a>
+
+  <h3>1x Discovered CVE:</h3>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-11434" target="_blank">CVE-2026-11434</a>
+  <br><br><br>
+
+**Access FluentCMS official repository:**
+
+ <table>
+  <tr>
+    <td><a href="https://github.com/fluentcms/FluentCMS" target="_blank">https://github.com/fluentcms/FluentCMS</a></td>
+  </tr>
+</table>
+<br>
+
+***You can find all [FluentCMS](https://github.com/fluentcms/FluentCMS) reports and PoCs with this link:***
+
+[https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/NovoSGA](https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/FluentCMS)
+
   ##
   
   *Made with💜 by [Karina Gante](https://github.com/KarinaGante).* 
