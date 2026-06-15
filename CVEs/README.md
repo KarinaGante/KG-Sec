@@ -111,7 +111,28 @@
 
 ***You can find all [FluentCMS](https://github.com/fluentcms/FluentCMS) reports and PoCs with this link:***
 
-[https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/NovoSGA](https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/FluentCMS)
+[https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/FluentCMS](https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/FluentCMS)
+
+---
+
+<a href="https://github.com/intelliants/subrion" target="_blank"><img width="230" src="https://www.combell.com/build/website/images/webhosting/cms/subrion@2x.png"/></a>
+
+  <h3>1x Discovered CVE:</h3>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-12202" target="_blank">CVE-2026-12202</a>
+  <br><br><br>
+
+**Access Subrion CMS official repository:**
+
+ <table>
+  <tr>
+    <td><a href="https://github.com/intelliants/subrion" target="_blank">https://github.com/intelliants/subrion</a></td>
+  </tr>
+</table>
+<br>
+
+***You can find all [Subrion CMS](https://github.com/intelliants/subrion) reports and PoCs with this link:***
+
+[https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/SubrionCMS](https://github.com/KarinaGante/KG-Sec/tree/main/CVEs/SubrionCMS)
 
   ##
   
